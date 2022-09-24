@@ -1,0 +1,14 @@
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.exe
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.dll
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.pdb
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.dll
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.pdb
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

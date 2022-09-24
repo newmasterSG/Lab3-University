@@ -1,0 +1,14 @@
+E:\University\Laboratory3OOP\Laboratory3OOP\bin\Debug\netcoreapp3.1\Rectangle.exe
+E:\University\Laboratory3OOP\Laboratory3OOP\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+E:\University\Laboratory3OOP\Laboratory3OOP\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+E:\University\Laboratory3OOP\Laboratory3OOP\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+E:\University\Laboratory3OOP\Laboratory3OOP\bin\Debug\netcoreapp3.1\Rectangle.dll
+E:\University\Laboratory3OOP\Laboratory3OOP\bin\Debug\netcoreapp3.1\Rectangle.pdb
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.csproj.AssemblyReference.cache
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.dll
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.pdb
+E:\University\Laboratory3OOP\Laboratory3OOP\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache
