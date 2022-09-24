@@ -11,7 +11,24 @@ namespace MPE
 
         private string _article;
         private int _quantity;
-        
+        public int Quantity
+        {
+            get { return _quantity; }
+            set { _quantity = value; }
+        }
+
+        public string Article
+        {
+            get { return _article; }
+            set { _article = value; }
+        }
+
+        private double _sum;
+        public double Sum
+        {
+            get { return _sum; }
+            set { _sum = value; }
+        }
         public Invoice(int account,string customer,string provider)
         {
             this._account = account;
@@ -22,24 +39,38 @@ namespace MPE
         public double tax()
         {
             double tax = 0;
-            double sumWithMPE;
-            double sumWithoutMPE;
-            switch(_article)
+            double sum = 0;
+            Sum = sum;
+            Random random = new Random();
+            int price = random.Next(10, 100);
+            _quantity = _account / price;
+            Article.ToLower();
+            switch (Article)
             {
-                case "product":
+                case "with mpe":
                     {
                         tax = 0.20;
-
+                        sum = (price * _quantity) * tax;
+                        break;
+                    }
+                case "without mpe":
+                    {
+                        sum = price * _quantity;
                         break;
                     }
             }
-            return tax;
+            return sum;
         }
 
 
         static void Main(string[] args)
         {
             Invoice invoice = new Invoice(10000, "Yehor", "Coca-cola");
+            Console.WriteLine("If you wanna know sum with MPE is : with mpe");
+            Console.WriteLine("If you wanna know sum without MPE is : without mpe");
+            string article = Console.ReadLine();
+            invoice.Article = article;
+            Console.WriteLine(invoice.tax());
         }
     }
 }
