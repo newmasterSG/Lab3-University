@@ -4,6 +4,8 @@ namespace Book
 {
     internal class Book
     {
+     
+
         private Title title;
         private Author author;
         private Content content;
@@ -14,6 +16,7 @@ namespace Book
             this.author = author;
             this.content = content;
         }
+
         public Title Title { get { return title; } }
 
         public Author Author { get { return author; } }

@@ -12,16 +12,18 @@ namespace Book
             string title = Console.ReadLine();
             Console.Write("Also author : ");
             string author = Console.ReadLine();
-            Console.WriteLine("The last that we need to it's content : ");
+            Console.WriteLine("The last that we need it's content : ");
             string content = Console.ReadLine();
             Book book = new Book(new Title(title), new Author(author), new Content(content));
             Console.WriteLine();
             Console.WriteLine("Okey, the process completed.");
             Console.Clear();
-            Console.WriteLine($"The book title is {book.Title.TitleName} ");
-            Console.WriteLine($"The author of this book is {book.Author.Writer}");
-            Console.WriteLine("The book context : ");
-            Console.WriteLine($"{book.Content.Сontents}");
+            book.Title.Show();
+            book.Author.Show();
+            book.Content.Show();
+            Console.WriteLine();
         }
+
+        
     }
 }
